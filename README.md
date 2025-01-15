@@ -14,17 +14,5 @@
     Outils de développement : Git
     Bases de données : MySQL, MongoDB
 
-📈 Projets notables
-
-    [Nom du projet 1]
-        Description : [Brève description du projet]
-        Technologies utilisées : [Ex: Python, Django, React]
-        Lien GitHub : [URL du projet]
-
-    [Nom du projet 2]
-        Description : [Brève description du projet]
-        Technologies utilisées : [Ex: Node.js, Express, MongoDB]
-        Lien GitHub : [URL du projet]
-
 📫 Contact
  	• Email : relka.dev@gmail.com
